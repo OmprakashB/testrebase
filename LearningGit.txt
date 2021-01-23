@@ -1,0 +1,14 @@
+Learning Git commands
+
+To create a branch
+git checkout -b <<branch-name>>
+
+To add a file to Local Repo
+git add .
+
+To commit a file to the Local Repo
+git commit -m <<Commit-message>>
+
+To list the logs
+git log --oneline
+
